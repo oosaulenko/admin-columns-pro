@@ -1,0 +1,8 @@
+{
+    "name": "wordpress-plugin/admin-columns-pro",
+    "description": "admin-columns-pro",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4"
+    }
+}
